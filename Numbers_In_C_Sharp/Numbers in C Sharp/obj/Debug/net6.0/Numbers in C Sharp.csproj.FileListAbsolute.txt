@@ -1,0 +1,15 @@
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\bin\Debug\net6.0\Numbers in C Sharp.exe
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\bin\Debug\net6.0\Numbers in C Sharp.deps.json
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\bin\Debug\net6.0\Numbers in C Sharp.runtimeconfig.json
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\bin\Debug\net6.0\Numbers in C Sharp.dll
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\bin\Debug\net6.0\Numbers in C Sharp.pdb
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\Numbers in C Sharp.csproj.AssemblyReference.cache
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\Numbers in C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\Numbers in C Sharp.AssemblyInfoInputs.cache
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\Numbers in C Sharp.AssemblyInfo.cs
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\Numbers in C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\Numbers in C Sharp.dll
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\refint\Numbers in C Sharp.dll
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\Numbers in C Sharp.pdb
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\Numbers in C Sharp.genruntimeconfig.cache
+C:\Users\maver\source\repos\Numbers in C Sharp\Numbers in C Sharp\obj\Debug\net6.0\ref\Numbers in C Sharp.dll
